@@ -1,0 +1,8 @@
+Free_form_code=false
+Code_language=python=true
+Find_alternative=true
+Find_alternative_Retry=true
+Previous_action_set=true
+Cancel_previous_action/pre-word=plural_set=true
+Jump_to_following_link{https://www.google.com/search?q=previous&rlz=1CAYYYY_enUS873&oq=previous&aqs=chrome..69i57j0l5.2311j1j9&sourceid=chrome&ie=UTF-8&safe=active&ssui=on}=true
+End_code_line_set=true
